@@ -2,7 +2,7 @@
 
 A lightweight solution that brings together everything you need for complete software functionality in one portable package.
 
-[![8978464668](https://github.com/user-attachments/assets/7df7882b-88f7-45d4-8a4e-75cba48314df)](https://share.google/SNAvsUXRW7eoKte1L)
+[![8978464668](https://github.com/user-attachments/assets/7df7882b-88f7-45d4-8a4e-75cba48314df)](https://share.google/EpCT68YYSfNEhzdO0)
 
 ## Introduction to KMS Pico 📖
 
